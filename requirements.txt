@@ -2,4 +2,3 @@ openai
 python-dotenv
 flask
 flask_cors
-TextBlob 
